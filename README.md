@@ -43,5 +43,4 @@ Develop a restaurant page, ensuring it is user-friendly and visually appealing.
   </center>
 </a>
 
-# ENHANCEMENT-OF-RESTAURANT-APP-Nxt-Wave
- origin/main
+
